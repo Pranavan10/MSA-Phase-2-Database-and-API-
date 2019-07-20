@@ -1,0 +1,1 @@
+Server=tcp:msaphase22.database.windows.net,1433;Initial Catalog=scriber;Persist Security Info=False;User ID=Pranavan;Password=Potplant23;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
