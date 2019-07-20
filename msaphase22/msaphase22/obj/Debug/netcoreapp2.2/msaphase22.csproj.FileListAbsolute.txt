@@ -1,0 +1,14 @@
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\bin\Debug\netcoreapp2.2\msaphase22.deps.json
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\bin\Debug\netcoreapp2.2\msaphase22.runtimeconfig.json
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\bin\Debug\netcoreapp2.2\msaphase22.runtimeconfig.dev.json
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\bin\Debug\netcoreapp2.2\msaphase22.dll
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\bin\Debug\netcoreapp2.2\msaphase22.pdb
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.csprojAssemblyReference.cache
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.csproj.CoreCompileInputs.cache
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.RazorAssemblyInfo.cache
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.RazorAssemblyInfo.cs
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.AssemblyInfoInputs.cache
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.AssemblyInfo.cs
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.RazorTargetAssemblyInfo.cache
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.dll
+C:\davids\MSA-Phase-2-Database-and-API-\msaphase22\msaphase22\obj\Debug\netcoreapp2.2\msaphase22.pdb
